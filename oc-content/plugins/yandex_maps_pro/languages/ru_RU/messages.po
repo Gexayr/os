@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yandex Maps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-11 13:18+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: carlos <carlos@osclass.org>\n"
+"Language-Team: Osclass <info@osclass-pro.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/conf.php:13
+msgid "Congratulations, the plugin is now configured"
+msgstr "Поздравляем, плагин теперь настроен"
+
+#: admin/conf.php:28
+msgid "Yandex Maps settings"
+msgstr "Настройки"
+
+#: admin/conf.php:39
+msgid "API key"
+msgstr "Ключ API"
+
+#: admin/conf.php:45
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: admin/conf.php:50
+msgid "Help"
+msgstr "Помощь"
+
+#: admin/conf.php:51
+msgid "Plugin work with latest API 2.1"
+msgstr "Плагин работает с последним API 2.1"
+
+#: admin/conf.php:52
+msgid "You can work for free with Yandex Maps before 25000 request for a day."
+msgstr ""
+"Вы можете работать бесплатно с Яндекс.Картами до 25000 запросов в день. И с "
+"соблюдением условий сервиса."
+
+#: admin/conf.php:53
+msgid "Go to"
+msgstr "Перейдите по URL"
+
+#: admin/conf.php:54
+msgid "Click button Connect APIs"
+msgstr "Нажмите кнопку Подключить API"
+
+#: admin/conf.php:55
+msgid "Select JavaScript API and Geocoder HTTP API"
+msgstr "Выберите JavaScript API и HTTP Геокодер"
+
+#: admin/conf.php:56
+msgid "Get the Key and add to plugin settings"
+msgstr "Получите ключ,  добавьте его в настройки плагина"
+
+#: admin/conf.php:57
+msgid ""
+"If you use more then 25000 request for a day, you need get API Key. Go to: "
+msgstr ""
+"Если вы используете более 25000 запрос в один день, вам нужно получить ключ "
+"API. Подробней:"
+
+#: admin/conf.php:58
+msgid "API docs and examples here: "
+msgstr "Документация по API и примеры здесь:"
+
+#: admin/conf.php:59
+msgid "You can edit map in file /oc-content/plugins/yandex_maps_pro/map.php"
+msgstr ""
+"Вы можете редактировать карту в файле /oc-content/plugins/yandex_maps_pro/"
+"map.php"
+
+#: admin/conf.php:61
+msgid "Premium Themes and plugins"
+msgstr "Osclass премиум шаблоны и плагины:"
+
+#: admin/conf.php:62
+msgid "Russian Forum"
+msgstr "Русский форум Osclass:"
+
+#: index.php:32
+msgid "Yandex Maps options"
+msgstr "Настройки Yandex Maps"
+
+#~ msgid "Go to https://developer.tech.yandex.ru/services/"
+#~ msgstr "Перейдите по URL"
+
+#~ msgid ""
+#~ "You can work for free with Yandex Maps before 25000 request for a day. No "
+#~ "need add a apikey."
+#~ msgstr ""
+#~ "Вы можете бесплатно работать с  Яндекса Картами до 25000 запросов в сутки "
+#~ "к API. В этом случае не нужно получать и  использовать ключ API."

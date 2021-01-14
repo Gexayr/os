@@ -1,0 +1,61 @@
+Version: 2.3.1 (2018.09.22)
+    + Now to reorder images the user must Click & Drag on the thumbnail itself. Behavior changed to fix a bug on mobile view when trying to delete the image.
+	+ Fixed a bug on Edit Ad when there is no limit for uploaded images.
+	+ Fixed some minor bugs.
+	
+Version: 2.3.0 (2018.07.18)
+    + Full reordering of images on Edit ad (no distinction between already existing images and newly uploaded ones).
+    + Upgrade to Fine Uploader 5.16.2
+	+ Fixed some minor bugs.
+	
+Version: 2.2.1 (2017.09.18)
+    + Solved image orientation issues when using ImageMagick on browsers not supporting pre-resizing.
+    + Solved occasional image corruption in Chrome on Android.
+	+ Fixed flickering on Drag & Drop in Firefox.
+	
+Version: 2.2.0 (2017.09.04)
+	+ Upgrade to Fine Uploader 5.15.0
+	+ Fixed Image Orientation bug when multiple images are being selected.
+	+ Optimization of scripts loading.
+	+ Several bugs fixed.
+    
+Version: 2.1.0 (2017.01.21)
+	+ Fixed Drag & Drop images on Microsoft IE 11 / Edge (Thanks to developerchris :)
+    + Restored "Make Primary Image" buttons (only on Publish Ad).
+    + Fixed bug on Edit Ad when Decent Mobile Theme plugin is used.
+    
+Version: 2.0.1 (2016.12.23)
+	+ Fixed bug provoking output error on installing and other circumstances
+	
+Version: 2.0.0 (2016.12.14)
+	+ Upgrade to Fine Uploader 5.11.10 (MIT license).
+	+ Much better resizing of images by using Pica library (MIT license).
+	+ Now images to be uploaded are fully sortable by dragging thumbnails.
+	+ Support for Decent Mobile Theme plugin.
+	+ Added languages folder for translation of plugin specific strings.
+	+ Fixed a bug affecting proper rotation of images including EXIF orientation.
+	- Discarded embedding of original EXIF information of the images.
+
+Version: 1.1.2 (2016.06.13)
+	+ Embed original EXIF information of the images to avoid occasional validation problems on server side.
+
+Version: 1.1.1 (2016.03.15)
+	+ Improved Make Primary Image layout.
+    + Full translation of Ajax Uploader elements.
+	+ Fixed minor bugs
+	
+Version: 1.1.0 (2016.02.17)
+	+ Fine Uploader 5.0.9 (licensed under GNU GPL v3). Thanks a lot to dev101 for his support.
+	+ Added feature Change Primary Image (publishing page only).
+	+ Compatibility with Minifyer plugin.
+	+ Minor cosmetic change.
+	+ jQuery optimization
+	
+Version: 1.0.1 (2016.02.12)
+	+ Fixed several issues when user tries to upload more images than the allowed number.
+	+ Added support for some themes not using the standard Ajax Uploader mechanism.
+	+ Added a Plugins submenu for those having problems with Configure link.
+	+ Changed name of jquery.fine-uploader.min.js script to jquery.fineuploader.min.js
+	
+Version: 1.0 (2016.01.25)
+	+ Initial release 
